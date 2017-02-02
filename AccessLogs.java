@@ -4,8 +4,7 @@ import java.util.*;
  * This class provides an implementation to get top 15 occurring ip addresses by using
  * Mapper Reducer concept.
  * @Authors		Chaitali Kamble
- * 				Siddharth Bidwalkar
- * 				Rudresh Pandit
+ * 			
  * @Date		12/06/2016
  * @Version		1.0
  */
